@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PPM1H	PPM1H	"protein phosphatase, Mg2+/Mn2+ dependent 1H [Source:HGNC Symbol;Acc:HGNC:18583]"	80	0.046095218509435654	0.025390629	Yes	
+row_1	EPS8	EPS8	epidermal growth factor receptor pathway substrate 8 [Source:HGNC Symbol;Acc:HGNC:3420]	142	0.043013669550418854	0.061186556	Yes	
+row_2	ARHGAP22	ARHGAP22	Rho GTPase activating protein 22 [Source:HGNC Symbol;Acc:HGNC:30320]	171	0.041638150811195374	0.123363756	Yes	
+row_3	ABLIM3	ABLIM3	actin binding LIM protein family member 3 [Source:HGNC Symbol;Acc:HGNC:29132]	269	0.03641016036272049	0.11344724	Yes	
+row_4	NECTIN3	NECTIN3	nectin cell adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:17664]	281	0.03575901687145233	0.17841133	Yes	
+row_5	PXDC1	PXDC1	PX domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21361]	313	0.03451763093471527	0.22305115	Yes	
+row_6	IGFBP4	IGFBP4	insulin like growth factor binding protein 4 [Source:HGNC Symbol;Acc:HGNC:5473]	358	0.03277536854147911	0.2525258	Yes	
+row_7	ZEB1	ZEB1	zinc finger E-box binding homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11642]	374	0.032247964292764664	0.30660772	Yes	
+row_8	ICK	ICK	intestinal cell kinase [Source:HGNC Symbol;Acc:HGNC:21219]	376	0.032064057886600494	0.37271672	Yes	
+row_9	ACTA2	ACTA2	"actin alpha 2, smooth muscle [Source:HGNC Symbol;Acc:HGNC:130]"	453	0.02813737280666828	0.36413184	Yes	
+row_10	SERPINF1	SERPINF1	serpin family F member 1 [Source:HGNC Symbol;Acc:HGNC:8824]	454	0.028055371716618538	0.4227515	Yes	
+row_11	UGDH	UGDH	UDP-glucose 6-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12525]	455	0.027963291853666306	0.48117876	Yes	
+row_12	SATB2	SATB2	SATB homeobox 2 [Source:HGNC Symbol;Acc:HGNC:21637]	475	0.027341382578015327	0.5214626	Yes	
+row_13	CYFIP2	CYFIP2	cytoplasmic FMR1 interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:13760]	863	0.012589802034199238	0.204683	No	
+row_14	WNT5B	WNT5B	Wnt family member 5B [Source:HGNC Symbol;Acc:HGNC:16265]	884	0.011669403873383999	0.21133487	No	
+row_15	DDAH1	DDAH1	dimethylarginine dimethylaminohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:2715]	1049	0.004489217884838581	0.07532471	No	
+row_16	MMP19	MMP19	matrix metallopeptidase 19 [Source:HGNC Symbol;Acc:HGNC:7165]	1059	0.0038329719100147486	0.075354695	No	

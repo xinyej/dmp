@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MCM4	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	19	0.04932449758052826	0.040673062	Yes	
+row_1	ASPM	ASPM	abnormal spindle microtubule assembly [Source:HGNC Symbol;Acc:HGNC:19048]	39	0.04797085374593735	0.079764344	Yes	
+row_2	EIF4EBP1	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3288]	54	0.046991199254989624	0.12217516	Yes	
+row_3	MYBL2	MYBL2	MYB proto-oncogene like 2 [Source:HGNC Symbol;Acc:HGNC:7548]	57	0.04669664800167084	0.17495605	Yes	
+row_4	YKT6	YKT6	YKT6 v-SNARE homolog [Source:HGNC Symbol;Acc:HGNC:16959]	117	0.0442083366215229	0.17393643	Yes	
+row_5	IGF2BP3	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:28868]	122	0.044098976999521255	0.22189614	Yes	
+row_6	F12	F12	coagulation factor XII [Source:HGNC Symbol;Acc:HGNC:3530]	147	0.04277466610074043	0.2504512	Yes	
+row_7	GCFC2	GCFC2	GC-rich sequence DNA-binding factor 2 [Source:HGNC Symbol;Acc:HGNC:1317]	152	0.0425461120903492	0.29659638	Yes	
+row_8	SLC2A1	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	160	0.0421413816511631	0.33958998	Yes	
+row_9	BUB3	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	187	0.040865346789360046	0.36412826	Yes	
+row_10	AP2B1	AP2B1	adaptor related protein complex 2 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:563]	237	0.038578495383262634	0.36545852	Yes	
+row_11	GPR19	GPR19	G protein-coupled receptor 19 [Source:HGNC Symbol;Acc:HGNC:4473]	243	0.038292139768600464	0.4057399	Yes	
+row_12	CNOT9	CNOT9	CCR4-NOT transcription complex subunit 9 [Source:HGNC Symbol;Acc:HGNC:10445]	262	0.0370887853205204	0.433008	Yes	
+row_13	HBS1L	HBS1L	HBS1 like translational GTPase [Source:HGNC Symbol;Acc:HGNC:4834]	285	0.035603705793619156	0.45496926	Yes	
+row_14	SNCG	SNCG	synuclein gamma [Source:HGNC Symbol;Acc:HGNC:11141]	314	0.03451763093471527	0.47030428	Yes	
+row_15	COMMD8	COMMD8	COMM domain containing 8 [Source:HGNC Symbol;Acc:HGNC:26036]	333	0.03378364071249962	0.4937102	Yes	
+row_16	TRMU	TRMU	tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase [Source:HGNC Symbol;Acc:HGNC:25481]	342	0.03355218842625618	0.5257742	Yes	
+row_17	CENPF	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	389	0.031164759770035744	0.52111983	Yes	
+row_18	PAX8	PAX8	paired box 8 [Source:HGNC Symbol;Acc:HGNC:8622]	423	0.02942655421793461	0.5260415	Yes	
+row_19	UBE2K	UBE2K	ubiquitin conjugating enzyme E2 K [Source:HGNC Symbol;Acc:HGNC:4914]	468	0.027656136080622673	0.5190729	No	
+row_20	SLC16A3	SLC16A3	solute carrier family 16 member 3 [Source:HGNC Symbol;Acc:HGNC:10924]	604	0.022434860467910767	0.42475307	No	
+row_21	CENPU	CENPU	centromere protein U [Source:HGNC Symbol;Acc:HGNC:21348]	636	0.021278701722621918	0.4219394	No	
+row_22	HAT1	HAT1	histone acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4821]	808	0.014064301736652851	0.28569543	No	
+row_23	JPT1	JPT1	Jupiter microtubule associated homolog 1 [Source:HGNC Symbol;Acc:HGNC:14569]	958	0.008355357684195042	0.16242324	No	
+row_24	ARTN	ARTN	artemin [Source:HGNC Symbol;Acc:HGNC:727]	1089	0.002357889199629426	0.049107082	No	

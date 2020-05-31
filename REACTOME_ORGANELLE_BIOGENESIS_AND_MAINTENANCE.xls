@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLRMT	POLRMT	RNA polymerase mitochondrial [Source:HGNC Symbol;Acc:HGNC:9200]	77	0.04617682844400406	0.044007625	Yes	
+row_1	IFT122	IFT122	intraflagellar transport 122 [Source:HGNC Symbol;Acc:HGNC:13556]	101	0.0449533648788929	0.13287218	Yes	
+row_2	CLASP1	CLASP1	cytoplasmic linker associated protein 1 [Source:HGNC Symbol;Acc:HGNC:17088]	183	0.04129660502076149	0.16147791	Yes	
+row_3	TNPO1	TNPO1	transportin 1 [Source:HGNC Symbol;Acc:HGNC:6401]	223	0.03912778198719025	0.22201447	Yes	
+row_4	SDCCAG8	SDCCAG8	serologically defined colon cancer antigen 8 [Source:HGNC Symbol;Acc:HGNC:10671]	251	0.03772523254156113	0.28977174	Yes	
+row_5	SAMM50	SAMM50	SAMM50 sorting and assembly machinery component [Source:HGNC Symbol;Acc:HGNC:24276]	282	0.03567841649055481	0.34989798	Yes	
+row_6	ATP5PD	ATP5PD	ATP synthase peripheral stalk subunit d [Source:HGNC Symbol;Acc:HGNC:845]	325	0.03408263251185417	0.39551765	Yes	
+row_7	HAUS5	HAUS5	HAUS augmin like complex subunit 5 [Source:HGNC Symbol;Acc:HGNC:29130]	350	0.03312809020280838	0.45476106	Yes	
+row_8	TBL1XR1	TBL1XR1	transducin beta like 1 X-linked receptor 1 [Source:HGNC Symbol;Acc:HGNC:29529]	352	0.03304297477006912	0.5341697	Yes	
+row_9	PRKACA	PRKACA	protein kinase cAMP-activated catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9380]	504	0.02624836005270481	0.46420643	No	
+row_10	RAB11A	RAB11A	"RAB11A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9760]"	748	0.016625594347715378	0.28937188	No	
+row_11	CNGA4	CNGA4	cyclic nucleotide gated channel subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:2152]	861	0.012606080621480942	0.22080179	No	
+row_12	CLUAP1	CLUAP1	clusterin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:19009]	992	0.006824160926043987	0.12223833	No	
+row_13	TUBAL3	TUBAL3	tubulin alpha like 3 [Source:HGNC Symbol;Acc:HGNC:23534]	1098	0.0020154255907982588	0.034133155	No	
+row_14	TUBB1	TUBB1	tubulin beta 1 class VI [Source:HGNC Symbol;Acc:HGNC:16257]	1103	0.00165335473138839	0.034607846	No	
+row_15	CCT2	CCT2	chaperonin containing TCP1 subunit 2 [Source:HGNC Symbol;Acc:HGNC:1615]	1135	3.382035647518933E-4	0.007971752	No	

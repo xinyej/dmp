@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MFSD6L	MFSD6L	major facilitator superfamily domain containing 6 like [Source:HGNC Symbol;Acc:HGNC:26656]	36	0.04811633750796318	0.049025603	Yes	
+row_1	SCNN1B	SCNN1B	sodium channel epithelial 1 beta subunit [Source:HGNC Symbol;Acc:HGNC:10600]	115	0.044302456080913544	0.05433088	Yes	
+row_2	IGF2BP3	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:28868]	122	0.044098976999521255	0.123236805	Yes	
+row_3	WNT3	WNT3	Wnt family member 3 [Source:HGNC Symbol;Acc:HGNC:12782]	128	0.04370119422674179	0.1923612	Yes	
+row_4	LOXL1	LOXL1	lysyl oxidase like 1 [Source:HGNC Symbol;Acc:HGNC:6665]	189	0.04068450629711151	0.20756197	Yes	
+row_5	IL12RB2	IL12RB2	interleukin 12 receptor subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:5972]	190	0.04057995229959488	0.27587268	Yes	
+row_6	HOXD1	HOXD1	homeobox D1 [Source:HGNC Symbol;Acc:HGNC:5132]	197	0.04029842093586922	0.3383809	Yes	
+row_7	PDX1	PDX1	pancreatic and duodenal homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6107]	203	0.04013000801205635	0.4014937	Yes	
+row_8	CHRNA3	CHRNA3	cholinergic receptor nicotinic alpha 3 subunit [Source:HGNC Symbol;Acc:HGNC:1957]	230	0.03874605521559715	0.44362673	Yes	
+row_9	SALL4	SALL4	spalt like transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:15924]	245	0.038291994482278824	0.4956526	Yes	
+row_10	IRF6	IRF6	interferon regulatory factor 6 [Source:HGNC Symbol;Acc:HGNC:6121]	331	0.03387904912233353	0.47719482	No	
+row_11	CLDN3	CLDN3	claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	515	0.025692902505397797	0.35792306	No	
+row_12	TNXB	TNXB	tenascin XB [Source:HGNC Symbol;Acc:HGNC:11976]	545	0.024531012400984764	0.37346274	No	
+row_13	CRLF1	CRLF1	cytokine receptor like factor 1 [Source:HGNC Symbol;Acc:HGNC:2364]	568	0.023867519572377205	0.39410222	No	
+row_14	NKX2-4	NKX2-4	NK2 homeobox 4 [Source:HGNC Symbol;Acc:HGNC:7837]	715	0.0176883265376091	0.29421553	No	
+row_15	LGR6	LGR6	leucine rich repeat containing G protein-coupled receptor 6 [Source:HGNC Symbol;Acc:HGNC:19719]	754	0.01637932099401951	0.28804007	No	
+row_16	TCFL5	TCFL5	transcription factor like 5 [Source:HGNC Symbol;Acc:HGNC:11646]	829	0.013538861647248268	0.2451115	No	
+row_17	IRX4	IRX4	iroquois homeobox 4 [Source:HGNC Symbol;Acc:HGNC:6129]	833	0.013386956416070461	0.26498228	No	
+row_18	HMGA2	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]	1007	0.006135666277259588	0.12166961	No	

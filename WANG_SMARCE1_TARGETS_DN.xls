@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CYB5B	CYB5B	cytochrome b5 type B [Source:HGNC Symbol;Acc:HGNC:24374]	18	0.04932449758052826	0.07828947	Yes	
+row_1	DNAJC15	DNAJC15	DnaJ heat shock protein family (Hsp40) member C15 [Source:HGNC Symbol;Acc:HGNC:20325]	21	0.04923918843269348	0.1706255	Yes	
+row_2	LAMA4	LAMA4	laminin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	71	0.04636834189295769	0.2157337	Yes	
+row_3	HADH	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	94	0.04538651183247566	0.282944	Yes	
+row_4	IGF2BP3	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:28868]	122	0.044098976999521255	0.3432529	Yes	
+row_5	LOXL1	LOXL1	lysyl oxidase like 1 [Source:HGNC Symbol;Acc:HGNC:6665]	189	0.04068450629711151	0.36239976	Yes	
+row_6	NDUFV2	NDUFV2	NADH:ubiquinone oxidoreductase core subunit V2 [Source:HGNC Symbol;Acc:HGNC:7717]	209	0.03984947130084038	0.42169124	Yes	
+row_7	TM4SF1	TM4SF1	transmembrane 4 L six family member 1 [Source:HGNC Symbol;Acc:HGNC:11853]	224	0.039118692278862	0.4840265	Yes	
+row_8	AP2B1	AP2B1	adaptor related protein complex 2 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:563]	237	0.038578495383262634	0.54710543	Yes	
+row_9	IL4R	IL4R	interleukin 4 receptor [Source:HGNC Symbol;Acc:HGNC:6015]	509	0.02596130408346653	0.35605103	No	
+row_10	TRIM9	TRIM9	tripartite motif containing 9 [Source:HGNC Symbol;Acc:HGNC:16288]	657	0.020271578803658485	0.26424605	No	
+row_11	GASK1B	GASK1B	golgi associated kinase 1B [Source:HGNC Symbol;Acc:HGNC:25312]	677	0.01948883943259716	0.2846217	No	
+row_12	PALMD	PALMD	palmdelphin [Source:HGNC Symbol;Acc:HGNC:15846]	737	0.017236214131116867	0.26516786	No	
+row_13	RRAS2	RRAS2	RAS related 2 [Source:HGNC Symbol;Acc:HGNC:17271]	799	0.014361778274178505	0.23844387	No	
+row_14	WNT5B	WNT5B	Wnt family member 5B [Source:HGNC Symbol;Acc:HGNC:16265]	884	0.011669403873383999	0.18614757	No	
+row_15	SHISA2	SHISA2	shisa family member 2 [Source:HGNC Symbol;Acc:HGNC:20366]	887	0.011547335423529148	0.2064421	No	
+row_16	NDUFAF3	NDUFAF3	NADH:ubiquinone oxidoreductase complex assembly factor 3 [Source:HGNC Symbol;Acc:HGNC:29918]	934	0.009500589221715927	0.18374826	No	
+row_17	DBNDD2	DBNDD2	dysbindin domain containing 2 [Source:HGNC Symbol;Acc:HGNC:15881]	1137	2.684183418750763E-4	0.0048652063	No	
+row_18	STEAP3	STEAP3	STEAP3 metalloreductase [Source:HGNC Symbol;Acc:HGNC:24592]	1138	2.4242322251666337E-4	0.0053285565	No	

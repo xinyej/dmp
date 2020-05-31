@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EIF4EBP1	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3288]	54	0.046991199254989624	0.057991717	Yes	
+row_1	EPS8	EPS8	epidermal growth factor receptor pathway substrate 8 [Source:HGNC Symbol;Acc:HGNC:3420]	142	0.043013669550418854	0.077796854	Yes	
+row_2	TNPO1	TNPO1	transportin 1 [Source:HGNC Symbol;Acc:HGNC:6401]	223	0.03912778198719025	0.09505135	Yes	
+row_3	TM4SF1	TM4SF1	transmembrane 4 L six family member 1 [Source:HGNC Symbol;Acc:HGNC:11853]	224	0.039118692278862	0.18314454	Yes	
+row_4	MT1H	MT1H	metallothionein 1H [Source:HGNC Symbol;Acc:HGNC:7400]	290	0.035390205681324005	0.20526831	Yes	
+row_5	GFOD1	GFOD1	glucose-fructose oxidoreductase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21096]	305	0.03481023758649826	0.27125874	Yes	
+row_6	TRMU	TRMU	tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase [Source:HGNC Symbol;Acc:HGNC:25481]	342	0.03355218842625618	0.31492984	Yes	
+row_7	KCNN4	KCNN4	potassium calcium-activated channel subfamily N member 4 [Source:HGNC Symbol;Acc:HGNC:6293]	343	0.033450718969106674	0.39025906	Yes	
+row_8	APLP2	APLP2	amyloid beta precursor like protein 2 [Source:HGNC Symbol;Acc:HGNC:598]	395	0.030881423503160477	0.41462967	Yes	
+row_9	ARAP3	ARAP3	"ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 3 [Source:HGNC Symbol;Acc:HGNC:24097]"	425	0.029339412227272987	0.455014	Yes	
+row_10	CCL8	CCL8	C-C motif chemokine ligand 8 [Source:HGNC Symbol;Acc:HGNC:10635]	443	0.028590267524123192	0.5043402	Yes	
+row_11	FABP3	FABP3	fatty acid binding protein 3 [Source:HGNC Symbol;Acc:HGNC:3557]	480	0.027212591841816902	0.5337348	Yes	
+row_12	NAP1L1	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	704	0.018031276762485504	0.37682036	No	
+row_13	PDGFA	PDGFA	platelet derived growth factor subunit A [Source:HGNC Symbol;Acc:HGNC:8799]	1052	0.0042273374274373055	0.07898848	No	
+row_14	CRHBP	CRHBP	corticotropin releasing hormone binding protein [Source:HGNC Symbol;Acc:HGNC:2356]	1140	1.9758223788812757E-4	0.0023740772	No	
+row_15	FLNB	FLNB	filamin B [Source:HGNC Symbol;Acc:HGNC:3755]	1143	1.257313706446439E-4	8.8573823E-4	No	

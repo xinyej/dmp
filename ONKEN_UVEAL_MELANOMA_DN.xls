@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BFAR	BFAR	bifunctional apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:17613]	5	0.049679454416036606	0.062004052	Yes	
+row_1	CHMP2B	CHMP2B	charged multivesicular body protein 2B [Source:HGNC Symbol;Acc:HGNC:24537]	61	0.04658956080675125	0.07527121	Yes	
+row_2	LAMA4	LAMA4	laminin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	71	0.04636834189295769	0.1292772	Yes	
+row_3	FHL2	FHL2	four and a half LIM domains 2 [Source:HGNC Symbol;Acc:HGNC:3703]	73	0.04630211368203163	0.19033107	Yes	
+row_4	CARTPT	CARTPT	CART prepropeptide [Source:HGNC Symbol;Acc:HGNC:24323]	105	0.04483332857489586	0.22265808	Yes	
+row_5	LTA4H	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	166	0.041884809732437134	0.22517063	Yes	
+row_6	IL12RB2	IL12RB2	interleukin 12 receptor subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:5972]	190	0.04057995229959488	0.2589437	Yes	
+row_7	ARL8B	ARL8B	ADP ribosylation factor like GTPase 8B [Source:HGNC Symbol;Acc:HGNC:25564]	214	0.0396459624171257	0.29146722	Yes	
+row_8	HSPA2	HSPA2	heat shock protein family A (Hsp70) member 2 [Source:HGNC Symbol;Acc:HGNC:5235]	265	0.03653055801987648	0.2957371	Yes	
+row_9	SAMM50	SAMM50	SAMM50 sorting and assembly machinery component [Source:HGNC Symbol;Acc:HGNC:24276]	282	0.03567841649055481	0.329197	Yes	
+row_10	PXDC1	PXDC1	PX domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21361]	313	0.03451763093471527	0.34861508	Yes	
+row_11	CAPRIN1	CAPRIN1	cell cycle associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6743]	315	0.03451629728078842	0.3939011	Yes	
+row_12	ADH5	ADH5	"alcohol dehydrogenase 5 (class III), chi polypeptide [Source:HGNC Symbol;Acc:HGNC:253]"	316	0.03444572538137436	0.43998483	Yes	
+row_13	LYRM4	LYRM4	LYR motif containing 4 [Source:HGNC Symbol;Acc:HGNC:21365]	335	0.03374128416180611	0.46906897	Yes	
+row_14	TBL1XR1	TBL1XR1	transducin beta like 1 X-linked receptor 1 [Source:HGNC Symbol;Acc:HGNC:29529]	352	0.03304297477006912	0.49900302	Yes	
+row_15	TYR	TYR	tyrosinase [Source:HGNC Symbol;Acc:HGNC:12442]	434	0.028963005170226097	0.46549466	No	
+row_16	SLC25A38	SLC25A38	solute carrier family 25 member 38 [Source:HGNC Symbol;Acc:HGNC:26054]	441	0.028679603710770607	0.4985117	No	
+row_17	GABARAPL1	GABARAPL1	GABA type A receptor associated protein like 1 [Source:HGNC Symbol;Acc:HGNC:4068]	658	0.02023627981543541	0.3329	No	
+row_18	NAP1L1	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	704	0.018031276762485504	0.31688067	No	
+row_19	WAC	WAC	WW domain containing adaptor with coiled-coil [Source:HGNC Symbol;Acc:HGNC:17327]	789	0.0149700241163373	0.26197544	No	
+row_20	FAM184A	FAM184A	family with sequence similarity 184 member A [Source:HGNC Symbol;Acc:HGNC:20991]	820	0.013832212425768375	0.25371924	No	
+row_21	SLC41A3	SLC41A3	solute carrier family 41 member 3 [Source:HGNC Symbol;Acc:HGNC:31046]	851	0.012903922237455845	0.2442211	No	
+row_22	NDUFAF3	NDUFAF3	NADH:ubiquinone oxidoreductase complex assembly factor 3 [Source:HGNC Symbol;Acc:HGNC:29918]	934	0.009500589221715927	0.18378264	No	
+row_23	DNAJC4	DNAJC4	DnaJ heat shock protein family (Hsp40) member C4 [Source:HGNC Symbol;Acc:HGNC:5271]	1099	0.001986669609323144	0.04014258	No	

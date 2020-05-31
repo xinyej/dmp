@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MCM4	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	19	0.04932449758052826	0.06297007	Yes	
+row_1	PSMD9	PSMD9	"proteasome 26S subunit, non-ATPase 9 [Source:HGNC Symbol;Acc:HGNC:9567]"	35	0.04818522557616234	0.12765399	Yes	
+row_2	KRT76	KRT76	keratin 76 [Source:HGNC Symbol;Acc:HGNC:24430]	37	0.04807519167661667	0.20461522	Yes	
+row_3	MYBL2	MYBL2	MYB proto-oncogene like 2 [Source:HGNC Symbol;Acc:HGNC:7548]	57	0.04669664800167084	0.26332986	Yes	
+row_4	RRS1	RRS1	ribosome biogenesis regulator 1 homolog [Source:HGNC Symbol;Acc:HGNC:17083]	121	0.044143181294202805	0.27876362	Yes	
+row_5	TIMM17A	TIMM17A	translocase of inner mitochondrial membrane 17A [Source:HGNC Symbol;Acc:HGNC:17315]	133	0.043379589915275574	0.33922422	Yes	
+row_6	GCFC2	GCFC2	GC-rich sequence DNA-binding factor 2 [Source:HGNC Symbol;Acc:HGNC:1317]	152	0.0425461120903492	0.39210734	Yes	
+row_7	BUB3	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	187	0.040865346789360046	0.42803383	Yes	
+row_8	NDUFV2	NDUFV2	NADH:ubiquinone oxidoreductase core subunit V2 [Source:HGNC Symbol;Acc:HGNC:7717]	209	0.03984947130084038	0.4738811	Yes	
+row_9	CNOT9	CNOT9	CCR4-NOT transcription complex subunit 9 [Source:HGNC Symbol;Acc:HGNC:10445]	262	0.0370887853205204	0.48767772	Yes	
+row_10	CENPF	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	389	0.031164759770035744	0.42604497	No	
+row_11	KHDRBS1	KHDRBS1	"KH RNA binding domain containing, signal transduction associated 1 [Source:HGNC Symbol;Acc:HGNC:18116]"	542	0.024743862450122833	0.33088282	No	
+row_12	LDHA	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	600	0.022590788081288338	0.31675363	No	
+row_13	RCN2	RCN2	reticulocalbin 2 [Source:HGNC Symbol;Acc:HGNC:9935]	691	0.018427420407533646	0.26652303	No	
+row_14	NAP1L1	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	704	0.018031276762485504	0.28504595	No	
+row_15	TCF3	TCF3	transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:11633]	730	0.01740219071507454	0.29098433	No	
+row_16	COX6C	COX6C	cytochrome c oxidase subunit 6C [Source:HGNC Symbol;Acc:HGNC:2285]	733	0.01736987568438053	0.317333	No	
+row_17	HAT1	HAT1	histone acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4821]	808	0.014064301736652851	0.27427185	No	
+row_18	FAM76A	FAM76A	family with sequence similarity 76 member A [Source:HGNC Symbol;Acc:HGNC:28530]	865	0.012326393276453018	0.24441062	No	
+row_19	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	1124	9.157524327747524E-4	0.016356183	No	
+row_20	CCT2	CCT2	chaperonin containing TCP1 subunit 2 [Source:HGNC Symbol;Acc:HGNC:1615]	1135	3.382035647518933E-4	0.008007058	No	

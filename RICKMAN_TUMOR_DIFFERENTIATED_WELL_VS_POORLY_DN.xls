@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	C6orf132	C6orf132	chromosome 6 open reading frame 132 [Source:HGNC Symbol;Acc:HGNC:21288]	28	0.04865558445453644	0.044043347	Yes	
+row_1	AP1M2	AP1M2	adaptor related protein complex 1 subunit mu 2 [Source:HGNC Symbol;Acc:HGNC:558]	66	0.04649581015110016	0.076978035	Yes	
+row_2	TANGO6	TANGO6	transport and golgi organization 6 homolog [Source:HGNC Symbol;Acc:HGNC:25749]	90	0.04545219987630844	0.12094251	Yes	
+row_3	YKT6	YKT6	YKT6 v-SNARE homolog [Source:HGNC Symbol;Acc:HGNC:16959]	117	0.0442083366215229	0.16046038	Yes	
+row_4	GRHL3	GRHL3	grainyhead like transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:25839]	119	0.044183649122714996	0.22228459	Yes	
+row_5	LPAR5	LPAR5	lysophosphatidic acid receptor 5 [Source:HGNC Symbol;Acc:HGNC:13307]	131	0.04346100613474846	0.27414647	Yes	
+row_6	KRT6B	KRT6B	keratin 6B [Source:HGNC Symbol;Acc:HGNC:6444]	141	0.04304084926843643	0.32719925	Yes	
+row_7	SLC2A1	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	160	0.0421413816511631	0.37093234	Yes	
+row_8	ARL8B	ARL8B	ADP ribosylation factor like GTPase 8B [Source:HGNC Symbol;Acc:HGNC:25564]	214	0.0396459624171257	0.37984532	Yes	
+row_9	IGFL1	IGFL1	IGF like family member 1 [Source:HGNC Symbol;Acc:HGNC:24093]	253	0.03761998564004898	0.3992873	Yes	
+row_10	GAS2L1	GAS2L1	growth arrest specific 2 like 1 [Source:HGNC Symbol;Acc:HGNC:16955]	271	0.03625139594078064	0.43555334	Yes	
+row_11	PTHLH	PTHLH	parathyroid hormone like hormone [Source:HGNC Symbol;Acc:HGNC:9607]	292	0.03529027849435806	0.46777412	Yes	
+row_12	DLGAP4	DLGAP4	DLG associated protein 4 [Source:HGNC Symbol;Acc:HGNC:24476]	382	0.03156743943691254	0.43304822	No	
+row_13	CCL24	CCL24	C-C motif chemokine ligand 24 [Source:HGNC Symbol;Acc:HGNC:10623]	573	0.023844435811042786	0.29710048	No	
+row_14	LDHA	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	600	0.022590788081288338	0.30593264	No	
+row_15	ALS2CL	ALS2CL	ALS2 C-terminal like [Source:HGNC Symbol;Acc:HGNC:20605]	624	0.021780112758278847	0.31629503	No	
+row_16	GPR68	GPR68	G protein-coupled receptor 68 [Source:HGNC Symbol;Acc:HGNC:4519]	751	0.016421141102910042	0.227004	No	
+row_17	TP63	TP63	tumor protein p63 [Source:HGNC Symbol;Acc:HGNC:15979]	821	0.013820304535329342	0.18495947	No	
+row_18	DAPK3	DAPK3	death associated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:2676]	837	0.013269848190248013	0.19039094	No	
+row_19	RARS1	RARS1	arginyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9870]	888	0.011530263349413872	0.16207518	No	
+row_20	TRAPPC3	TRAPPC3	trafficking protein particle complex 3 [Source:HGNC Symbol;Acc:HGNC:19942]	894	0.011241785250604153	0.1735644	No	
+row_21	NGEF	NGEF	neuronal guanine nucleotide exchange factor [Source:HGNC Symbol;Acc:HGNC:7807]	926	0.009936811402440071	0.15996622	No	
+row_22	TRIM7	TRIM7	tripartite motif containing 7 [Source:HGNC Symbol;Acc:HGNC:16278]	957	0.008523402735590935	0.14525537	No	
+row_23	JPT1	JPT1	Jupiter microtubule associated homolog 1 [Source:HGNC Symbol;Acc:HGNC:14569]	958	0.008355357684195042	0.15711565	No	
+row_24	FRMD6	FRMD6	FERM domain containing 6 [Source:HGNC Symbol;Acc:HGNC:19839]	1033	0.005068738013505936	0.09818015	No	
+row_25	ADAMTS15	ADAMTS15	ADAM metallopeptidase with thrombospondin type 1 motif 15 [Source:HGNC Symbol;Acc:HGNC:16305]	1144	8.591407095082104E-5	5.1491952E-8	No	

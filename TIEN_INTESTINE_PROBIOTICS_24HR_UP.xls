@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FAM111A	FAM111A	family with sequence similarity 111 member A [Source:HGNC Symbol;Acc:HGNC:24725]	8	0.04958641529083252	0.051432643	Yes	
+row_1	CYB5B	CYB5B	cytochrome b5 type B [Source:HGNC Symbol;Acc:HGNC:24374]	18	0.04932449758052826	0.101660535	Yes	
+row_2	MCM4	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	19	0.04932449758052826	0.15994571	Yes	
+row_3	DNAJC15	DNAJC15	DnaJ heat shock protein family (Hsp40) member C15 [Source:HGNC Symbol;Acc:HGNC:20325]	21	0.04923918843269348	0.21723484	Yes	
+row_4	PPM1H	PPM1H	"protein phosphatase, Mg2+/Mn2+ dependent 1H [Source:HGNC Symbol;Acc:HGNC:18583]"	80	0.046095218509435654	0.2197793	Yes	
+row_5	CAST	CAST	calpastatin [Source:HGNC Symbol;Acc:HGNC:1515]	88	0.04562225192785263	0.26742285	Yes	
+row_6	ACTN1	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	199	0.040256500244140625	0.21651462	Yes	
+row_7	NDUFV2	NDUFV2	NADH:ubiquinone oxidoreductase core subunit V2 [Source:HGNC Symbol;Acc:HGNC:7717]	209	0.03984947130084038	0.25554618	Yes	
+row_8	TNPO1	TNPO1	transportin 1 [Source:HGNC Symbol;Acc:HGNC:6401]	223	0.03912778198719025	0.2901439	Yes	
+row_9	TM4SF1	TM4SF1	transmembrane 4 L six family member 1 [Source:HGNC Symbol;Acc:HGNC:11853]	224	0.039118692278862	0.33636922	Yes	
+row_10	SAMM50	SAMM50	SAMM50 sorting and assembly machinery component [Source:HGNC Symbol;Acc:HGNC:24276]	282	0.03567841649055481	0.32749972	Yes	
+row_11	SNX3	SNX3	sorting nexin 3 [Source:HGNC Symbol;Acc:HGNC:11174]	286	0.03553077206015587	0.36679953	Yes	
+row_12	C5orf15	C5orf15	chromosome 5 open reading frame 15 [Source:HGNC Symbol;Acc:HGNC:20656]	301	0.035057324916124344	0.39569208	Yes	
+row_13	COMMD8	COMMD8	COMM domain containing 8 [Source:HGNC Symbol;Acc:HGNC:26036]	333	0.03378364071249962	0.40786022	Yes	
+row_14	LYRM4	LYRM4	LYR motif containing 4 [Source:HGNC Symbol;Acc:HGNC:21365]	335	0.03374128416180611	0.44683596	Yes	
+row_15	FAM98A	FAM98A	family with sequence similarity 98 member A [Source:HGNC Symbol;Acc:HGNC:24520]	377	0.03195912390947342	0.4478956	Yes	
+row_16	CENPF	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	389	0.031164759770035744	0.4748742	Yes	
+row_17	CENPS	CENPS	centromere protein S [Source:HGNC Symbol;Acc:HGNC:23163]	406	0.03028119169175625	0.49633244	Yes	
+row_18	HMGCS2	HMGCS2	3-hydroxy-3-methylglutaryl-CoA synthase 2 [Source:HGNC Symbol;Acc:HGNC:5008]	477	0.02722068503499031	0.4658304	No	
+row_19	CCDC86	CCDC86	coiled-coil domain containing 86 [Source:HGNC Symbol;Acc:HGNC:28359]	482	0.0271898340433836	0.49437872	No	
+row_20	RCN2	RCN2	reticulocalbin 2 [Source:HGNC Symbol;Acc:HGNC:9935]	691	0.018427420407533646	0.32994074	No	
+row_21	DDC	DDC	dopa decarboxylase [Source:HGNC Symbol;Acc:HGNC:2719]	755	0.01619761437177658	0.29267988	No	
+row_22	RARS1	RARS1	arginyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9870]	888	0.011530263349413872	0.18813114	No	
+row_23	SPG7	SPG7	"SPG7 matrix AAA peptidase subunit, paraplegin [Source:HGNC Symbol;Acc:HGNC:11237]"	930	0.009739840403199196	0.16293494	No	
+row_24	GTF3C2	GTF3C2	general transcription factor IIIC subunit 2 [Source:HGNC Symbol;Acc:HGNC:4665]	980	0.007288999389857054	0.12768061	No	
+row_25	H3-3B	H3-3B	H3.3 histone B [Source:HGNC Symbol;Acc:HGNC:4765]	987	0.0070290337316691875	0.13061507	No	
+row_26	TNS3	TNS3	tensin 3 [Source:HGNC Symbol;Acc:HGNC:21616]	1011	0.005980823654681444	0.11709155	No	
+row_27	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	1124	9.157524327747524E-4	0.017905096	No	

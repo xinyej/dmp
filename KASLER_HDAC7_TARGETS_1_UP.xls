@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CPEB1	CPEB1	cytoplasmic polyadenylation element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:21744]	272	0.03623544052243233	-0.1056083	Yes	
+row_1	LDLRAD4	LDLRAD4	low density lipoprotein receptor class A domain containing 4 [Source:HGNC Symbol;Acc:HGNC:1224]	332	0.033861640840768814	-0.031571463	Yes	
+row_2	DGKZ	DGKZ	diacylglycerol kinase zeta [Source:HGNC Symbol;Acc:HGNC:2857]	362	0.03257358819246292	0.06421168	Yes	
+row_3	SESN3	SESN3	sestrin 3 [Source:HGNC Symbol;Acc:HGNC:23060]	448	0.028460612520575523	0.09510255	Yes	
+row_4	RAB1B	RAB1B	"RAB1B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:18370]"	486	0.027066903188824654	0.16327502	Yes	
+row_5	RHOBTB2	RHOBTB2	Rho related BTB domain containing 2 [Source:HGNC Symbol;Acc:HGNC:18756]	560	0.02409154176712036	0.18849577	Yes	
+row_6	PGLYRP2	PGLYRP2	peptidoglycan recognition protein 2 [Source:HGNC Symbol;Acc:HGNC:30013]	762	0.016058098524808884	0.070490435	Yes	
+row_7	LTA	LTA	lymphotoxin alpha [Source:HGNC Symbol;Acc:HGNC:6709]	811	0.01398945041000843	0.08017062	Yes	
+row_8	DAPK3	DAPK3	death associated protein kinase 3 [Source:HGNC Symbol;Acc:HGNC:2676]	837	0.013269848190248013	0.10752182	Yes	
+row_9	CYFIP2	CYFIP2	cytoplasmic FMR1 interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:13760]	863	0.012589802034199238	0.13233754	Yes	
+row_10	ITGB3	ITGB3	integrin subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:6156]	893	0.011258326470851898	0.1486492	Yes	
+row_11	ITK	ITK	IL2 inducible T cell kinase [Source:HGNC Symbol;Acc:HGNC:6171]	896	0.011178825050592422	0.18855825	Yes	
+row_12	CD96	CD96	CD96 molecule [Source:HGNC Symbol;Acc:HGNC:16892]	1009	0.006018271204084158	0.11188163	No	
+row_13	SIT1	SIT1	signaling threshold regulating transmembrane adaptor 1 [Source:HGNC Symbol;Acc:HGNC:17710]	1111	0.0013179195811972022	0.02741481	No	
+row_14	STEAP3	STEAP3	STEAP3 metalloreductase [Source:HGNC Symbol;Acc:HGNC:24592]	1138	2.4242322251666337E-4	0.0053098085	No	

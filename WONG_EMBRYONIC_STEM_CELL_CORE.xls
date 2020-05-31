@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MCM4	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	19	0.04932449758052826	0.07164534	Yes	
+row_1	NME2	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	45	0.04754093289375305	0.13476124	Yes	
+row_2	EIF4EBP1	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3288]	54	0.046991199254989624	0.21198826	Yes	
+row_3	MYBL2	MYBL2	MYB proto-oncogene like 2 [Source:HGNC Symbol;Acc:HGNC:7548]	57	0.04669664800167084	0.29401526	Yes	
+row_4	HADH	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	94	0.04538651183247566	0.3434957	Yes	
+row_5	SLC2A1	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	160	0.0421413816511631	0.36139742	Yes	
+row_6	BUB3	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	187	0.040865346789360046	0.411645	Yes	
+row_7	PROM1	PROM1	prominin 1 [Source:HGNC Symbol;Acc:HGNC:9454]	232	0.03872024267911911	0.44205713	Yes	
+row_8	RPS16	RPS16	ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:10396]	249	0.037957530468702316	0.49596727	Yes	
+row_9	ADH5	ADH5	"alcohol dehydrogenase 5 (class III), chi polypeptide [Source:HGNC Symbol;Acc:HGNC:253]"	316	0.03444572538137436	0.49917004	Yes	
+row_10	UGDH	UGDH	UDP-glucose 6-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12525]	455	0.027963291853666306	0.42679608	No	
+row_11	RCN2	RCN2	reticulocalbin 2 [Source:HGNC Symbol;Acc:HGNC:9935]	691	0.018427420407533646	0.2511631	No	
+row_12	NAP1L1	NAP1L1	nucleosome assembly protein 1 like 1 [Source:HGNC Symbol;Acc:HGNC:7637]	704	0.018031276762485504	0.27286538	No	
+row_13	HAT1	HAT1	histone acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4821]	808	0.014064301736652851	0.20663135	No	
+row_14	RAB34	RAB34	"RAB34, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:16519]"	860	0.012610184028744698	0.1839689	No	
+row_15	PIPOX	PIPOX	pipecolic acid and sarcosine oxidase [Source:HGNC Symbol;Acc:HGNC:17804]	898	0.011125164106488228	0.17107476	No	
+row_16	NDUFS2	NDUFS2	NADH:ubiquinone oxidoreductase core subunit S2 [Source:HGNC Symbol;Acc:HGNC:7708]	949	0.008959120139479637	0.1427481	No	
+row_17	JPT1	JPT1	Jupiter microtubule associated homolog 1 [Source:HGNC Symbol;Acc:HGNC:14569]	958	0.008355357684195042	0.15063807	No	
+row_18	CDKN1C	CDKN1C	cyclin dependent kinase inhibitor 1C [Source:HGNC Symbol;Acc:HGNC:1786]	973	0.007611740380525589	0.15186495	No	
