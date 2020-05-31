@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CYB5B	CYB5B	cytochrome b5 type B [Source:HGNC Symbol;Acc:HGNC:24374]	18	0.04932449758052826	0.08329335	Yes	
+row_1	MCM4	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	19	0.04932449758052826	0.18253	Yes	
+row_2	EIF4EBP1	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3288]	54	0.046991199254989624	0.24695712	Yes	
+row_3	MYBL2	MYBL2	MYB proto-oncogene like 2 [Source:HGNC Symbol;Acc:HGNC:7548]	57	0.04669664800167084	0.3391353	Yes	
+row_4	YKT6	YKT6	YKT6 v-SNARE homolog [Source:HGNC Symbol;Acc:HGNC:16959]	117	0.0442083366215229	0.37582004	Yes	
+row_5	TYK2	TYK2	tyrosine kinase 2 [Source:HGNC Symbol;Acc:HGNC:12440]	132	0.04338664188981056	0.4507099	Yes	
+row_6	ERCC1	ERCC1	"ERCC excision repair 1, endonuclease non-catalytic subunit [Source:HGNC Symbol;Acc:HGNC:3433]"	215	0.03964344784617424	0.45783848	Yes	
+row_7	HSPA2	HSPA2	heat shock protein family A (Hsp70) member 2 [Source:HGNC Symbol;Acc:HGNC:5235]	265	0.03653055801987648	0.48793358	Yes	
+row_8	SMPD1	SMPD1	sphingomyelin phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:11120]	295	0.03516661748290062	0.53299934	Yes	
+row_9	CCDC85B	CCDC85B	coiled-coil domain containing 85B [Source:HGNC Symbol;Acc:HGNC:24926]	488	0.027051053941249847	0.41736177	No	
+row_10	GABARAPL1	GABARAPL1	GABA type A receptor associated protein like 1 [Source:HGNC Symbol;Acc:HGNC:4068]	658	0.02023627981543541	0.30838543	No	
+row_11	THBS1	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	669	0.019886715337634087	0.3395384	No	
+row_12	MFAP3	MFAP3	microfibril associated protein 3 [Source:HGNC Symbol;Acc:HGNC:7034]	678	0.0194423645734787	0.37156886	No	
+row_13	CDKN1C	CDKN1C	cyclin dependent kinase inhibitor 1C [Source:HGNC Symbol;Acc:HGNC:1786]	973	0.007611740380525589	0.12647559	No	
+row_14	CLCN2	CLCN2	chloride voltage-gated channel 2 [Source:HGNC Symbol;Acc:HGNC:2020]	1016	0.00578973488882184	0.10092298	No	
+row_15	ICAM3	ICAM3	intercellular adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:5346]	1017	0.005748706869781017	0.11248888	No	

@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MCM4	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	19	0.04932449758052826	0.07204138	Yes	
+row_1	AP1M2	AP1M2	adaptor related protein complex 1 subunit mu 2 [Source:HGNC Symbol;Acc:HGNC:558]	66	0.04649581015110016	0.115049146	Yes	
+row_2	SCGB3A2	SCGB3A2	secretoglobin family 3A member 2 [Source:HGNC Symbol;Acc:HGNC:18391]	87	0.045641109347343445	0.17956634	Yes	
+row_3	IGF2BP3	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:28868]	122	0.044098976999521255	0.22889318	Yes	
+row_4	BUB3	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	187	0.040865346789360046	0.2457971	Yes	
+row_5	EXOSC9	EXOSC9	exosome component 9 [Source:HGNC Symbol;Acc:HGNC:9137]	195	0.04034586623311043	0.3122968	Yes	
+row_6	PROM1	PROM1	prominin 1 [Source:HGNC Symbol;Acc:HGNC:9454]	232	0.03872024267911911	0.35015783	Yes	
+row_7	GPR19	GPR19	G protein-coupled receptor 19 [Source:HGNC Symbol;Acc:HGNC:4473]	243	0.038292139768600464	0.41029704	Yes	
+row_8	SALL4	SALL4	spalt like transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:15924]	245	0.038291994482278824	0.4784147	Yes	
+row_9	LGALS8	LGALS8	galectin 8 [Source:HGNC Symbol;Acc:HGNC:6569]	326	0.033988770097494125	0.46874228	Yes	
+row_10	CAMKV	CAMKV	CaM kinase like vesicle associated [Source:HGNC Symbol;Acc:HGNC:28788]	360	0.03266293555498123	0.4983473	Yes	
+row_11	RAB3B	RAB3B	"RAB3B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9778]"	396	0.030843127518892288	0.52289987	Yes	
+row_12	AASS	AASS	aminoadipate-semialdehyde synthase [Source:HGNC Symbol;Acc:HGNC:17366]	492	0.026902779936790466	0.48716027	No	
+row_13	PUS7	PUS7	pseudouridine synthase 7 [Source:HGNC Symbol;Acc:HGNC:26033]	761	0.016076477244496346	0.27854228	No	
+row_14	RRAS2	RRAS2	RAS related 2 [Source:HGNC Symbol;Acc:HGNC:17271]	799	0.014361778274178505	0.27162153	No	
+row_15	PIPOX	PIPOX	pipecolic acid and sarcosine oxidase [Source:HGNC Symbol;Acc:HGNC:17804]	898	0.011125164106488228	0.20479023	No	
+row_16	L1TD1	L1TD1	LINE1 type transposase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25595]	991	0.0068856594152748585	0.13563828	No	

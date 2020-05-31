@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MCM4	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	19	0.04932449758052826	0.05174094	Yes	
+row_1	ASPM	ASPM	abnormal spindle microtubule assembly [Source:HGNC Symbol;Acc:HGNC:19048]	39	0.04797085374593735	0.10159677	Yes	
+row_2	POLA2	POLA2	"DNA polymerase alpha 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:30073]"	51	0.04721925035119057	0.1575424	Yes	
+row_3	MYBL2	MYBL2	MYB proto-oncogene like 2 [Source:HGNC Symbol;Acc:HGNC:7548]	57	0.04669664800167084	0.2181126	Yes	
+row_4	RRS1	RRS1	ribosome biogenesis regulator 1 homolog [Source:HGNC Symbol;Acc:HGNC:17083]	121	0.044143181294202805	0.22338729	Yes	
+row_5	SLC2A1	SLC2A1	solute carrier family 2 member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	160	0.0421413816511631	0.24817576	Yes	
+row_6	DHRS7B	DHRS7B	dehydrogenase/reductase 7B [Source:HGNC Symbol;Acc:HGNC:24547]	162	0.04203902184963226	0.30582792	Yes	
+row_7	NUBP1	NUBP1	nucleotide binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8041]	163	0.04199529066681862	0.36431125	Yes	
+row_8	BUB3	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	187	0.040865346789360046	0.40070358	Yes	
+row_9	PSMB3	PSMB3	proteasome 20S subunit beta 3 [Source:HGNC Symbol;Acc:HGNC:9540]	198	0.04029169678688049	0.44789386	Yes	
+row_10	ACTN1	ACTN1	actinin alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	199	0.040256500244140625	0.5039557	Yes	
+row_11	PDLIM1	PDLIM1	PDZ and LIM domain 1 [Source:HGNC Symbol;Acc:HGNC:2067]	210	0.03984833508729935	0.5505285	Yes	
+row_12	LIN9	LIN9	lin-9 DREAM MuvB core complex component [Source:HGNC Symbol;Acc:HGNC:30830]	392	0.030961301177740097	0.43218276	No	
+row_13	IFRD1	IFRD1	interferon related developmental regulator 1 [Source:HGNC Symbol;Acc:HGNC:5456]	517	0.025508711114525795	0.3570911	No	
+row_14	CAPG	CAPG	"capping actin protein, gelsolin like [Source:HGNC Symbol;Acc:HGNC:1474]"	578	0.023435203358530998	0.3362037	No	
+row_15	LDHA	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	600	0.022590788081288338	0.34893072	No	
+row_16	THBS1	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	669	0.019886715337634087	0.31596515	No	
+row_17	NET1	NET1	neuroepithelial cell transforming 1 [Source:HGNC Symbol;Acc:HGNC:14592]	703	0.018067067489027977	0.31168765	No	
+row_18	HAT1	HAT1	histone acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4821]	808	0.014064301736652851	0.2384995	No	
+row_19	PTPRE	PTPRE	protein tyrosine phosphatase receptor type E [Source:HGNC Symbol;Acc:HGNC:9669]	842	0.013038399629294872	0.227219	No	
+row_20	RARS1	RARS1	arginyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:9870]	888	0.011530263349413872	0.2031335	No	
+row_21	NGEF	NGEF	neuronal guanine nucleotide exchange factor [Source:HGNC Symbol;Acc:HGNC:7807]	926	0.009936811402440071	0.18396541	No	
+row_22	HMGA2	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]	1007	0.006135666277259588	0.121145196	No	
+row_23	FLNB	FLNB	filamin B [Source:HGNC Symbol;Acc:HGNC:3755]	1143	1.257313706446439E-4	8.9210866E-4	No	

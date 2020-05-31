@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AMOTL1	AMOTL1	angiomotin like 1 [Source:HGNC Symbol;Acc:HGNC:17811]	42	0.047739144414663315	0.020855492	Yes	
+row_1	SUGP2	SUGP2	SURP and G-patch domain containing 2 [Source:HGNC Symbol;Acc:HGNC:18641]	68	0.04641701653599739	0.055286046	Yes	
+row_2	LAMA4	LAMA4	laminin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	71	0.04636834189295769	0.110211134	Yes	
+row_3	RRS1	RRS1	ribosome biogenesis regulator 1 homolog [Source:HGNC Symbol;Acc:HGNC:17083]	121	0.044143181294202805	0.12041288	Yes	
+row_4	IGF2BP3	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:28868]	122	0.044098976999521255	0.17434965	Yes	
+row_5	DGLUCY	DGLUCY	D-glutamate cyclase [Source:HGNC Symbol;Acc:HGNC:20498]	134	0.04334208369255066	0.21753047	Yes	
+row_6	ZIC1	ZIC1	Zic family member 1 [Source:HGNC Symbol;Acc:HGNC:12872]	159	0.04217568784952164	0.24766718	Yes	
+row_7	CDK14	CDK14	cyclin dependent kinase 14 [Source:HGNC Symbol;Acc:HGNC:8883]	169	0.041816696524620056	0.29076964	Yes	
+row_8	AQP2	AQP2	aquaporin 2 [Source:HGNC Symbol;Acc:HGNC:634]	176	0.041431281715631485	0.33608165	Yes	
+row_9	BUB3	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	187	0.040865346789360046	0.37712687	Yes	
+row_10	EXOSC9	EXOSC9	exosome component 9 [Source:HGNC Symbol;Acc:HGNC:9137]	195	0.04034586623311043	0.4202177	Yes	
+row_11	C19orf54	C19orf54	chromosome 19 open reading frame 54 [Source:HGNC Symbol;Acc:HGNC:24758]	235	0.03862805664539337	0.43261054	Yes	
+row_12	SDCCAG8	SDCCAG8	serologically defined colon cancer antigen 8 [Source:HGNC Symbol;Acc:HGNC:10671]	251	0.03772523254156113	0.46534684	Yes	
+row_13	NAA30	NAA30	"N(alpha)-acetyltransferase 30, NatC catalytic subunit [Source:HGNC Symbol;Acc:HGNC:19844]"	287	0.03550256788730621	0.47749156	Yes	
+row_14	EXPH5	EXPH5	exophilin 5 [Source:HGNC Symbol;Acc:HGNC:30578]	298	0.035092346370220184	0.5114759	Yes	
+row_15	CAPRIN1	CAPRIN1	cell cycle associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6743]	315	0.03451629728078842	0.5393938	Yes	
+row_16	TBL1XR1	TBL1XR1	transducin beta like 1 X-linked receptor 1 [Source:HGNC Symbol;Acc:HGNC:29529]	352	0.03304297477006912	0.54763657	Yes	
+row_17	FAM98A	FAM98A	family with sequence similarity 98 member A [Source:HGNC Symbol;Acc:HGNC:24520]	377	0.03195912390947342	0.5652775	Yes	
+row_18	CA4	CA4	carbonic anhydrase 4 [Source:HGNC Symbol;Acc:HGNC:1375]	490	0.027026856318116188	0.4982443	No	
+row_19	ZSCAN2	ZSCAN2	zinc finger and SCAN domain containing 2 [Source:HGNC Symbol;Acc:HGNC:20994]	508	0.02600751258432865	0.5148615	No	
+row_20	PIPOX	PIPOX	pipecolic acid and sarcosine oxidase [Source:HGNC Symbol;Acc:HGNC:17804]	898	0.011125164106488228	0.18083675	No	
+row_21	JPT1	JPT1	Jupiter microtubule associated homolog 1 [Source:HGNC Symbol;Acc:HGNC:14569]	958	0.008355357684195042	0.1383304	No	
+row_22	RNF14	RNF14	ring finger protein 14 [Source:HGNC Symbol;Acc:HGNC:10058]	971	0.007669493556022644	0.13698699	No	
+row_23	H3-3B	H3-3B	H3.3 histone B [Source:HGNC Symbol;Acc:HGNC:4765]	987	0.0070290337316691875	0.13217926	No	
+row_24	TRPC4AP	TRPC4AP	transient receptor potential cation channel subfamily C member 4 associated protein [Source:HGNC Symbol;Acc:HGNC:16181]	1076	0.0029450724832713604	0.057139687	No	
+row_25	GXYLT1	GXYLT1	glucoside xylosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:27482]	1090	0.0022363206371665	0.04825738	No	

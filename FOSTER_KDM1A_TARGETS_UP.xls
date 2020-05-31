@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GPR137B	GPR137B	G protein-coupled receptor 137B [Source:HGNC Symbol;Acc:HGNC:11862]	346	0.033262431621551514	-0.22776988	Yes	
+row_1	SPTBN2	SPTBN2	"spectrin beta, non-erythrocytic 2 [Source:HGNC Symbol;Acc:HGNC:11276]"	371	0.03232429549098015	-0.17107353	Yes	
+row_2	KCNU1	KCNU1	potassium calcium-activated channel subfamily U member 1 [Source:HGNC Symbol;Acc:HGNC:18867]	409	0.03019634820520878	-0.13109258	Yes	
+row_3	SMTNL1	SMTNL1	smoothelin like 1 [Source:HGNC Symbol;Acc:HGNC:32394]	418	0.029691535979509354	-0.06650715	Yes	
+row_4	PLAC8	PLAC8	placenta associated 8 [Source:HGNC Symbol;Acc:HGNC:19254]	444	0.028519129380583763	-0.01989127	Yes	
+row_5	AASS	AASS	aminoadipate-semialdehyde synthase [Source:HGNC Symbol;Acc:HGNC:17366]	492	0.026902779936790466	0.0032305205	Yes	
+row_6	BCAS1	BCAS1	breast carcinoma amplified sequence 1 [Source:HGNC Symbol;Acc:HGNC:974]	512	0.025823252275586128	0.048678316	Yes	
+row_7	GJB4	GJB4	gap junction protein beta 4 [Source:HGNC Symbol;Acc:HGNC:4286]	629	0.02149999514222145	-0.002690943	Yes	
+row_8	ADGRF3	ADGRF3	adhesion G protein-coupled receptor F3 [Source:HGNC Symbol;Acc:HGNC:18989]	646	0.02078157663345337	0.03325192	Yes	
+row_9	UROC1	UROC1	urocanate hydratase 1 [Source:HGNC Symbol;Acc:HGNC:26444]	713	0.017728043720126152	0.01729647	Yes	
+row_10	SFTPD	SFTPD	surfactant protein D [Source:HGNC Symbol;Acc:HGNC:10803]	721	0.01759188249707222	0.05355002	Yes	
+row_11	SYTL3	SYTL3	synaptotagmin like 3 [Source:HGNC Symbol;Acc:HGNC:15587]	723	0.0175790898501873	0.095115505	Yes	
+row_12	SLC26A4	SLC26A4	solute carrier family 26 member 4 [Source:HGNC Symbol;Acc:HGNC:8818]	753	0.01639658957719803	0.108891875	Yes	
+row_13	CRYBG1	CRYBG1	crystallin beta-gamma domain containing 1 [Source:HGNC Symbol;Acc:HGNC:356]	765	0.01601531356573105	0.1377759	Yes	
+row_14	SLC6A13	SLC6A13	solute carrier family 6 member 13 [Source:HGNC Symbol;Acc:HGNC:11046]	781	0.015346321277320385	0.16148233	Yes	
+row_15	LY6G6E	LY6G6E	lymphocyte antigen 6 family member G6E [Source:HGNC Symbol;Acc:HGNC:13934]	782	0.015296261757612228	0.19842494	Yes	
+row_16	CDA	CDA	cytidine deaminase [Source:HGNC Symbol;Acc:HGNC:1712]	828	0.01353964302688837	0.19105384	Yes	
+row_17	GPHA2	GPHA2	glycoprotein hormone subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:18054]	867	0.012290550395846367	0.18689929	Yes	
+row_18	DEFB136	DEFB136	defensin beta 136 [Source:HGNC Symbol;Acc:HGNC:34433]	869	0.012216892093420029	0.21551432	Yes	
+row_19	PPP2R2C	PPP2R2C	protein phosphatase 2 regulatory subunit Bgamma [Source:HGNC Symbol;Acc:HGNC:9306]	1010	0.00599998002871871	0.105339035	Yes	
+row_20	SLC4A5	SLC4A5	solute carrier family 4 member 5 [Source:HGNC Symbol;Acc:HGNC:18168]	1080	0.002663496183231473	0.050329182	Yes	
+row_21	RELN	RELN	reelin [Source:HGNC Symbol;Acc:HGNC:9957]	1085	0.0023892854806035757	0.052537754	Yes	

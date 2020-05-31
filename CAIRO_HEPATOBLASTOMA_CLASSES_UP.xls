@@ -1,0 +1,34 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPN2	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	2	0.04990414157509804	0.04974937	Yes	
+row_1	BFAR	BFAR	bifunctional apoptosis regulator [Source:HGNC Symbol;Acc:HGNC:17613]	5	0.049679454416036606	0.099266656	Yes	
+row_2	MCM4	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	19	0.04932449758052826	0.1385252	Yes	
+row_3	ASPM	ASPM	abnormal spindle microtubule assembly [Source:HGNC Symbol;Acc:HGNC:19048]	39	0.04797085374593735	0.17098984	Yes	
+row_4	NME2	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	45	0.04754093289375305	0.21560031	Yes	
+row_5	TMA16	TMA16	translation machinery associated 16 homolog [Source:HGNC Symbol;Acc:HGNC:25638]	59	0.04668185114860535	0.25212917	Yes	
+row_6	RRS1	RRS1	ribosome biogenesis regulator 1 homolog [Source:HGNC Symbol;Acc:HGNC:17083]	121	0.044143181294202805	0.24287027	Yes	
+row_7	GCFC2	GCFC2	GC-rich sequence DNA-binding factor 2 [Source:HGNC Symbol;Acc:HGNC:1317]	152	0.0425461120903492	0.2598394	Yes	
+row_8	LTA4H	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	166	0.041884809732437134	0.2914132	Yes	
+row_9	BUB3	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	187	0.040865346789360046	0.315639	Yes	
+row_10	AP2B1	AP2B1	adaptor related protein complex 2 subunit beta 1 [Source:HGNC Symbol;Acc:HGNC:563]	237	0.038578495383262634	0.31142348	Yes	
+row_11	RPS16	RPS16	ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:10396]	249	0.037957530468702316	0.3407392	Yes	
+row_12	MYL6B	MYL6B	myosin light chain 6B [Source:HGNC Symbol;Acc:HGNC:29823]	293	0.03526364266872406	0.3384953	Yes	
+row_13	POLR3D	POLR3D	RNA polymerase III subunit D [Source:HGNC Symbol;Acc:HGNC:1080]	309	0.0346587710082531	0.36080652	Yes	
+row_14	CAPRIN1	CAPRIN1	cell cycle associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6743]	315	0.03451629728078842	0.39196333	Yes	
+row_15	COMMD8	COMMD8	COMM domain containing 8 [Source:HGNC Symbol;Acc:HGNC:26036]	333	0.03378364071249962	0.411572	Yes	
+row_16	LYRM4	LYRM4	LYR motif containing 4 [Source:HGNC Symbol;Acc:HGNC:21365]	335	0.03374128416180611	0.4455254	Yes	
+row_17	TRMU	TRMU	tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase [Source:HGNC Symbol;Acc:HGNC:25481]	342	0.03355218842625618	0.4747871	Yes	
+row_18	CENPF	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	389	0.031164759770035744	0.4656115	No	
+row_19	DMAC2	DMAC2	distal membrane arm assembly complex 2 [Source:HGNC Symbol;Acc:HGNC:25496]	460	0.02785610221326351	0.4314355	No	
+row_20	DDX1	DDX1	DEAD-box helicase 1 [Source:HGNC Symbol;Acc:HGNC:2734]	495	0.026855261996388435	0.4285998	No	
+row_21	ENY2	ENY2	ENY2 transcription and export complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:24449]	589	0.022811127826571465	0.3685292	No	
+row_22	PTP4A3	PTP4A3	protein tyrosine phosphatase 4A3 [Source:HGNC Symbol;Acc:HGNC:9636]	726	0.01744714379310608	0.26424888	No	
+row_23	DDC	DDC	dopa decarboxylase [Source:HGNC Symbol;Acc:HGNC:2719]	755	0.01619761437177658	0.2558002	No	
+row_24	PUS7	PUS7	pseudouridine synthase 7 [Source:HGNC Symbol;Acc:HGNC:26033]	761	0.016076477244496346	0.2679098	No	
+row_25	SLC39A4	SLC39A4	solute carrier family 39 member 4 [Source:HGNC Symbol;Acc:HGNC:17129]	770	0.01569315977394581	0.27692562	No	
+row_26	COG5	COG5	component of oligomeric golgi complex 5 [Source:HGNC Symbol;Acc:HGNC:14857]	783	0.01527299452573061	0.28191033	No	
+row_27	SOAT2	SOAT2	sterol O-acyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:11178]	873	0.012038839049637318	0.21430974	No	
+row_28	JPT1	JPT1	Jupiter microtubule associated homolog 1 [Source:HGNC Symbol;Acc:HGNC:14569]	958	0.008355357684195042	0.14740075	No	
+row_29	GTF3C2	GTF3C2	general transcription factor IIIC subunit 2 [Source:HGNC Symbol;Acc:HGNC:4665]	980	0.007288999389857054	0.13604495	No	
+row_30	HMGA2	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]	1007	0.006135666277259588	0.11900142	No	
+row_31	DNAJC4	DNAJC4	DnaJ heat shock protein family (Hsp40) member C4 [Source:HGNC Symbol;Acc:HGNC:5271]	1099	0.001986669609323144	0.039218996	No	
+row_32	CCT2	CCT2	chaperonin containing TCP1 subunit 2 [Source:HGNC Symbol;Acc:HGNC:1615]	1135	3.382035647518933E-4	0.008093518	No	

@@ -1,0 +1,42 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANGPT1	ANGPT1	angiopoietin 1 [Source:HGNC Symbol;Acc:HGNC:484]	3	0.04975229129195213	0.03852885	Yes	
+row_1	CYB5B	CYB5B	cytochrome b5 type B [Source:HGNC Symbol;Acc:HGNC:24374]	18	0.04932449758052826	0.06673927	Yes	
+row_2	PSMD9	PSMD9	"proteasome 26S subunit, non-ATPase 9 [Source:HGNC Symbol;Acc:HGNC:9567]"	35	0.04818522557616234	0.09219361	Yes	
+row_3	AMOTL1	AMOTL1	angiomotin like 1 [Source:HGNC Symbol;Acc:HGNC:17811]	42	0.047739144414663315	0.1263361	Yes	
+row_4	SUGP2	SUGP2	SURP and G-patch domain containing 2 [Source:HGNC Symbol;Acc:HGNC:18641]	68	0.04641701653599739	0.14217237	Yes	
+row_5	LAMA4	LAMA4	laminin subunit alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	71	0.04636834189295769	0.17880161	Yes	
+row_6	SCGB3A2	SCGB3A2	secretoglobin family 3A member 2 [Source:HGNC Symbol;Acc:HGNC:18391]	87	0.045641109347343445	0.2030526	Yes	
+row_7	RRS1	RRS1	ribosome biogenesis regulator 1 homolog [Source:HGNC Symbol;Acc:HGNC:17083]	121	0.044143181294202805	0.20975739	Yes	
+row_8	IGF2BP3	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3 [Source:HGNC Symbol;Acc:HGNC:28868]	122	0.044098976999521255	0.24631685	Yes	
+row_9	ZIC1	ZIC1	Zic family member 1 [Source:HGNC Symbol;Acc:HGNC:12872]	159	0.04217568784952164	0.24867316	Yes	
+row_10	CDK14	CDK14	cyclin dependent kinase 14 [Source:HGNC Symbol;Acc:HGNC:8883]	169	0.041816696524620056	0.27518836	Yes	
+row_11	AQP2	AQP2	aquaporin 2 [Source:HGNC Symbol;Acc:HGNC:634]	176	0.041431281715631485	0.30410144	Yes	
+row_12	BUB3	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	187	0.040865346789360046	0.32892215	Yes	
+row_13	EXOSC9	EXOSC9	exosome component 9 [Source:HGNC Symbol;Acc:HGNC:9137]	195	0.04034586623311043	0.35602957	Yes	
+row_14	ERCC1	ERCC1	"ERCC excision repair 1, endonuclease non-catalytic subunit [Source:HGNC Symbol;Acc:HGNC:3433]"	215	0.03964344784617424	0.37168512	Yes	
+row_15	TNPO1	TNPO1	transportin 1 [Source:HGNC Symbol;Acc:HGNC:6401]	223	0.03912778198719025	0.3977827	Yes	
+row_16	C19orf54	C19orf54	chromosome 19 open reading frame 54 [Source:HGNC Symbol;Acc:HGNC:24758]	235	0.03862805664539337	0.41984284	Yes	
+row_17	GAS2L1	GAS2L1	growth arrest specific 2 like 1 [Source:HGNC Symbol;Acc:HGNC:16955]	271	0.03625139594078064	0.41819352	Yes	
+row_18	NAA30	NAA30	"N(alpha)-acetyltransferase 30, NatC catalytic subunit [Source:HGNC Symbol;Acc:HGNC:19844]"	287	0.03550256788730621	0.43403932	Yes	
+row_19	EXPH5	EXPH5	exophilin 5 [Source:HGNC Symbol;Acc:HGNC:30578]	298	0.035092346370220184	0.45407403	Yes	
+row_20	POLR3D	POLR3D	RNA polymerase III subunit D [Source:HGNC Symbol;Acc:HGNC:1080]	309	0.0346587710082531	0.47374928	Yes	
+row_21	TBL1XR1	TBL1XR1	transducin beta like 1 X-linked receptor 1 [Source:HGNC Symbol;Acc:HGNC:29529]	352	0.03304297477006912	0.46309948	Yes	
+row_22	CS	CS	citrate synthase [Source:HGNC Symbol;Acc:HGNC:2422]	384	0.031396664679050446	0.4610486	Yes	
+row_23	APLP2	APLP2	amyloid beta precursor like protein 2 [Source:HGNC Symbol;Acc:HGNC:598]	395	0.030881423503160477	0.47759232	Yes	
+row_24	CELF2	CELF2	CUGBP Elav-like family member 2 [Source:HGNC Symbol;Acc:HGNC:2550]	481	0.027195701375603676	0.42314568	No	
+row_25	MED23	MED23	mediator complex subunit 23 [Source:HGNC Symbol;Acc:HGNC:2372]	487	0.027063515037298203	0.4410532	No	
+row_26	CA4	CA4	carbonic anhydrase 4 [Source:HGNC Symbol;Acc:HGNC:1375]	490	0.027026856318116188	0.46164775	No	
+row_27	KHDRBS1	KHDRBS1	"KH RNA binding domain containing, signal transduction associated 1 [Source:HGNC Symbol;Acc:HGNC:18116]"	542	0.024743862450122833	0.43596554	No	
+row_28	NT5C2	NT5C2	"5'-nucleotidase, cytosolic II [Source:HGNC Symbol;Acc:HGNC:8022]"	552	0.024320337921380997	0.4479757	No	
+row_29	EXD2	EXD2	exonuclease 3'-5' domain containing 2 [Source:HGNC Symbol;Acc:HGNC:20217]	665	0.01992643065750599	0.36304608	No	
+row_30	PIPOX	PIPOX	pipecolic acid and sarcosine oxidase [Source:HGNC Symbol;Acc:HGNC:17804]	898	0.011125164106488228	0.16212426	No	
+row_31	UBALD1	UBALD1	UBA like domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29576]	916	0.010365858674049377	0.15531933	No	
+row_32	GATAD1	GATAD1	GATA zinc finger domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29941]	928	0.009781498461961746	0.15346473	No	
+row_33	CLMP	CLMP	CXADR like membrane protein [Source:HGNC Symbol;Acc:HGNC:24039]	937	0.009427547454833984	0.15403411	No	
+row_34	NDUFS2	NDUFS2	NADH:ubiquinone oxidoreductase core subunit S2 [Source:HGNC Symbol;Acc:HGNC:7708]	949	0.008959120139479637	0.15149774	No	
+row_35	JPT1	JPT1	Jupiter microtubule associated homolog 1 [Source:HGNC Symbol;Acc:HGNC:14569]	958	0.008355357684195042	0.15117821	No	
+row_36	SLC36A4	SLC36A4	solute carrier family 36 member 4 [Source:HGNC Symbol;Acc:HGNC:19660]	1001	0.0063612679950892925	0.11840843	No	
+row_37	PAPSS2	PAPSS2	3'-phosphoadenosine 5'-phosphosulfate synthase 2 [Source:HGNC Symbol;Acc:HGNC:8604]	1061	0.003724407171830535	0.06805405	No	
+row_38	TRPC4AP	TRPC4AP	transient receptor potential cation channel subfamily C member 4 associated protein [Source:HGNC Symbol;Acc:HGNC:16181]	1076	0.0029450724832713604	0.057814453	No	
+row_39	GXYLT1	GXYLT1	glucoside xylosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:27482]	1090	0.0022363206371665	0.04789307	No	
+row_40	SF3B1	SF3B1	splicing factor 3b subunit 1 [Source:HGNC Symbol;Acc:HGNC:10768]	1142	1.37570415972732E-4	0.0018114678	No	

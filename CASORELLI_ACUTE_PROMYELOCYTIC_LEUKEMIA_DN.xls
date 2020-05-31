@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FAM111A	FAM111A	family with sequence similarity 111 member A [Source:HGNC Symbol;Acc:HGNC:24725]	8	0.04958641529083252	0.04620177	Yes	
+row_1	PLS1	PLS1	plastin 1 [Source:HGNC Symbol;Acc:HGNC:9090]	14	0.04943358525633812	0.094934404	Yes	
+row_2	MCM4	MCM4	minichromosome maintenance complex component 4 [Source:HGNC Symbol;Acc:HGNC:6947]	19	0.04932449758052826	0.14444806	Yes	
+row_3	PIM1	PIM1	"Pim-1 proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:8986]"	33	0.048322051763534546	0.18479612	Yes	
+row_4	ASPM	ASPM	abnormal spindle microtubule assembly [Source:HGNC Symbol;Acc:HGNC:19048]	39	0.04797085374593735	0.23195384	Yes	
+row_5	POLA2	POLA2	"DNA polymerase alpha 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:30073]"	51	0.04721925035119057	0.2729115	Yes	
+row_6	FHL2	FHL2	four and a half LIM domains 2 [Source:HGNC Symbol;Acc:HGNC:3703]	73	0.04630211368203163	0.3038969	Yes	
+row_7	HADH	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	94	0.04538651183247566	0.33479497	Yes	
+row_8	MMRN1	MMRN1	multimerin 1 [Source:HGNC Symbol;Acc:HGNC:7178]	112	0.04436837509274483	0.36729226	Yes	
+row_9	YKT6	YKT6	YKT6 v-SNARE homolog [Source:HGNC Symbol;Acc:HGNC:16959]	117	0.0442083366215229	0.41129735	Yes	
+row_10	BUB3	BUB3	BUB3 mitotic checkpoint protein [Source:HGNC Symbol;Acc:HGNC:1151]	187	0.040865346789360046	0.39330232	Yes	
+row_11	GP1BB	GP1BB	glycoprotein Ib platelet subunit beta [Source:HGNC Symbol;Acc:HGNC:4440]	238	0.03857188671827316	0.38990894	Yes	
+row_12	REX1BD	REX1BD	required for excision 1-B domain containing [Source:HGNC Symbol;Acc:HGNC:26098]	256	0.037381596863269806	0.41488355	Yes	
+row_13	SAMM50	SAMM50	SAMM50 sorting and assembly machinery component [Source:HGNC Symbol;Acc:HGNC:24276]	282	0.03567841649055481	0.4308366	Yes	
+row_14	LDLR	LDLR	low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:6547]	312	0.0345236100256443	0.44195235	Yes	
+row_15	LGALS8	LGALS8	galectin 8 [Source:HGNC Symbol;Acc:HGNC:6569]	326	0.033988770097494125	0.46686783	Yes	
+row_16	CENPF	CENPF	centromere protein F [Source:HGNC Symbol;Acc:HGNC:1857]	389	0.031164759770035744	0.44471753	No	
+row_17	AASS	AASS	aminoadipate-semialdehyde synthase [Source:HGNC Symbol;Acc:HGNC:17366]	492	0.026902779936790466	0.3820395	No	
+row_18	C3orf52	C3orf52	chromosome 3 open reading frame 52 [Source:HGNC Symbol;Acc:HGNC:26255]	534	0.025052877143025398	0.37217647	No	
+row_19	LDHA	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	600	0.022590788081288338	0.33809918	No	
+row_20	SLC16A3	SLC16A3	solute carrier family 16 member 3 [Source:HGNC Symbol;Acc:HGNC:10924]	604	0.022434860467910767	0.3595593	No	
+row_21	THBS1	THBS1	thrombospondin 1 [Source:HGNC Symbol;Acc:HGNC:11785]	669	0.019886715337634087	0.323469	No	
+row_22	TEDC2	TEDC2	tubulin epsilon and delta complex 2 [Source:HGNC Symbol;Acc:HGNC:25849]	698	0.01824723184108734	0.31795853	No	
+row_23	POLD3	POLD3	"DNA polymerase delta 3, accessory subunit [Source:HGNC Symbol;Acc:HGNC:20932]"	826	0.013608686625957489	0.21850495	No	
+row_24	CD59	CD59	CD59 molecule (CD59 blood group) [Source:HGNC Symbol;Acc:HGNC:1689]	845	0.01296151615679264	0.21628806	No	
+row_25	CSRP1	CSRP1	cysteine and glycine rich protein 1 [Source:HGNC Symbol;Acc:HGNC:2469]	901	0.010993056930601597	0.17870826	No	
+row_26	NDUFS2	NDUFS2	NADH:ubiquinone oxidoreductase core subunit S2 [Source:HGNC Symbol;Acc:HGNC:7708]	949	0.008959120139479637	0.1461263	No	
+row_27	CSF2RB	CSF2RB	colony stimulating factor 2 receptor beta common subunit [Source:HGNC Symbol;Acc:HGNC:2436]	1005	0.006230511236935854	0.103418685	No	
+row_28	HMGA2	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]	1007	0.006135666277259588	0.10912647	No	
+row_29	DYNC1LI1	DYNC1LI1	dynein cytoplasmic 1 light intermediate chain 1 [Source:HGNC Symbol;Acc:HGNC:18745]	1034	0.00506103178486228	0.09121538	No	
+row_30	DDAH1	DDAH1	dimethylarginine dimethylaminohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:2715]	1049	0.004489217884838581	0.08347029	No	
+row_31	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:5006]	1124	9.157524327747524E-4	0.017969303	No	

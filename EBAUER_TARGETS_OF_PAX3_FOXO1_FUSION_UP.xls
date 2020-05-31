@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABLIM3	ABLIM3	actin binding LIM protein family member 3 [Source:HGNC Symbol;Acc:HGNC:29132]	269	0.03641016036272049	-0.15415974	Yes	
+row_1	MYL6B	MYL6B	myosin light chain 6B [Source:HGNC Symbol;Acc:HGNC:29823]	293	0.03526364266872406	-0.091763295	Yes	
+row_2	IGFBP4	IGFBP4	insulin like growth factor binding protein 4 [Source:HGNC Symbol;Acc:HGNC:5473]	358	0.03277536854147911	-0.071758024	Yes	
+row_3	EPS8L1	EPS8L1	EPS8 like 1 [Source:HGNC Symbol;Acc:HGNC:21295]	368	0.032392796128988266	-0.003632477	Yes	
+row_4	CYP2W1	CYP2W1	cytochrome P450 family 2 subfamily W member 1 [Source:HGNC Symbol;Acc:HGNC:20243]	420	0.029566140845417976	0.020415198	Yes	
+row_5	TNNT3	TNNT3	"troponin T3, fast skeletal type [Source:HGNC Symbol;Acc:HGNC:11950]"	440	0.02871973253786564	0.070993684	Yes	
+row_6	ACTA2	ACTA2	"actin alpha 2, smooth muscle [Source:HGNC Symbol;Acc:HGNC:130]"	453	0.02813737280666828	0.12644206	Yes	
+row_7	FABP3	FABP3	fatty acid binding protein 3 [Source:HGNC Symbol;Acc:HGNC:3557]	480	0.027212591841816902	0.16723879	Yes	
+row_8	TNNC1	TNNC1	"troponin C1, slow skeletal and cardiac type [Source:HGNC Symbol;Acc:HGNC:11943]"	599	0.022598501294851303	0.115192585	Yes	
+row_9	LDB3	LDB3	LIM domain binding 3 [Source:HGNC Symbol;Acc:HGNC:15710]	641	0.020907459780573845	0.12779863	Yes	
+row_10	MYH3	MYH3	myosin heavy chain 3 [Source:HGNC Symbol;Acc:HGNC:7573]	676	0.019535791128873825	0.14341912	Yes	
+row_11	PALMD	PALMD	palmdelphin [Source:HGNC Symbol;Acc:HGNC:15846]	737	0.017236214131116867	0.13046098	Yes	
+row_12	SOHLH2	SOHLH2	spermatogenesis and oogenesis specific basic helix-loop-helix 2 [Source:HGNC Symbol;Acc:HGNC:26026]	752	0.01639840565621853	0.1565316	Yes	
+row_13	MYL1	MYL1	myosin light chain 1 [Source:HGNC Symbol;Acc:HGNC:7582]	780	0.015351983718574047	0.1685559	Yes	
+row_14	BCAN	BCAN	brevican [Source:HGNC Symbol;Acc:HGNC:23059]	788	0.01499643363058567	0.19756971	Yes	
+row_15	TP63	TP63	tumor protein p63 [Source:HGNC Symbol;Acc:HGNC:15979]	821	0.013820304535329342	0.20153712	Yes	
+row_16	MYLPF	MYLPF	"myosin light chain, phosphorylatable, fast skeletal muscle [Source:HGNC Symbol;Acc:HGNC:29824]"	877	0.011770249344408512	0.18018626	No	
+row_17	AQP6	AQP6	aquaporin 6 [Source:HGNC Symbol;Acc:HGNC:639]	976	0.007475470192730427	0.1104151	No	
+row_18	SPDEF	SPDEF	SAM pointed domain containing ETS transcription factor [Source:HGNC Symbol;Acc:HGNC:17257]	1021	0.005570100620388985	0.08429325	No	
+row_19	CX3CL1	CX3CL1	C-X3-C motif chemokine ligand 1 [Source:HGNC Symbol;Acc:HGNC:10647]	1037	0.004881550092250109	0.08239951	No	
+row_20	PLA2G3	PLA2G3	phospholipase A2 group III [Source:HGNC Symbol;Acc:HGNC:17934]	1091	0.0021749911829829216	0.04027527	No	
+row_21	TUBAL3	TUBAL3	tubulin alpha like 3 [Source:HGNC Symbol;Acc:HGNC:23534]	1098	0.0020154255907982588	0.039665412	No	
+row_22	CLSTN2	CLSTN2	calsyntenin 2 [Source:HGNC Symbol;Acc:HGNC:17448]	1141	1.8787126464303583E-4	0.0026738923	No	
